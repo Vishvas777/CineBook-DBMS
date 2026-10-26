@@ -53,8 +53,7 @@ This project is developed as part of a DBMS case study and mini project to demon
 |---|---|
 | MariaDB | Relational database management system |
 | SQL | Database creation, querying, and modification |
-| Git | Version control |
-| GitHub | Source code hosting and project documentation |
+
 
 ## ✨ Features
 
