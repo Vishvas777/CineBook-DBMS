@@ -528,10 +528,5 @@ Developed as a DBMS case study and mini project.
 
 Add contributor names and GitHub profile links here if this is a team project.
 
-## 📄 License
-
-This project is intended for educational and academic purposes. Add a license file if you want to specify the terms under which others may reuse or distribute the code.
-
----
 
 **CineBook-DBMS** — A practical demonstration of relational database design and SQL operations for a movie theater booking system.
